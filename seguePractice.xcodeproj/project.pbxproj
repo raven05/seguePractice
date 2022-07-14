@@ -14,6 +14,7 @@
 		BDBA6AA72880858400DFB706 /* seguePractice.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BDBA6AA52880858400DFB706 /* seguePractice.xcdatamodeld */; };
 		BDBA6AA92880858500DFB706 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDBA6AA82880858500DFB706 /* Assets.xcassets */; };
 		BDBA6AAC2880858500DFB706 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDBA6AAA2880858500DFB706 /* LaunchScreen.storyboard */; };
+		BDBA6AB42880866700DFB706 /* secondScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBA6AB32880866700DFB706 /* secondScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BDBA6AA82880858500DFB706 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDBA6AAB2880858500DFB706 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BDBA6AAD2880858500DFB706 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BDBA6AB32880866700DFB706 /* secondScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				BDBA6A9C2880858400DFB706 /* AppDelegate.swift */,
 				BDBA6A9E2880858400DFB706 /* SceneDelegate.swift */,
 				BDBA6AA02880858400DFB706 /* ViewController.swift */,
+				BDBA6AB32880866700DFB706 /* secondScreen.swift */,
 				BDBA6AA22880858400DFB706 /* Main.storyboard */,
 				BDBA6AA82880858500DFB706 /* Assets.xcassets */,
 				BDBA6AAA2880858500DFB706 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				BDBA6A9D2880858400DFB706 /* AppDelegate.swift in Sources */,
 				BDBA6AA72880858400DFB706 /* seguePractice.xcdatamodeld in Sources */,
 				BDBA6A9F2880858400DFB706 /* SceneDelegate.swift in Sources */,
+				BDBA6AB42880866700DFB706 /* secondScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
